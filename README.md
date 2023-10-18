@@ -112,7 +112,7 @@ There are also several special icons...
  - **hostile** : pseudo NATO style red circle.
  - **neutral** : pseudo NATO style green square.
  - **unknown** : pseudo NATO style yellow square.
- - **earthquake** : black circle - diameter proportional to `msg.mag`.
+ - **earthquake** : black circle - diameter proportional to `payload.mag`.
 
 #### NATO Symbology
 
